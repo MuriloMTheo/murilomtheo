@@ -3,7 +3,7 @@
 </h1>
 <p align="center">
   ETL Developer & software tinkerer focused on ag-tech simulations.<br>
-  Learning and working with <b>C#</b>, <b>Java</b>, <b>Python</b> & <b>JavaScript</b> (OOP & data integration).
+  Learning and working with <b>C#</b>, <b>Python</b> & <b>JavaScript</b> (OOP & data integration).
 </p>
 
 
