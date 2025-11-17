@@ -13,3 +13,11 @@
        alt="Murilo Moreira github stats" />  <img width="41%" height="195px" 
        src="https://github-readme-stats.vercel.app/api/top-langs/?username=MuriloMTheo&layout=compact&hide_border=true&title_color=3498db&text_color=9b59b6&bg_color=0d1117" />
 </div>
+
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/MuriloMtheo/MuriloMtheo/output/pacman-contribution-graph-dark.svg">
+  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/MuriloMtheo/MuriloMtheo/output/pacman-contribution-graph.svg">
+  <img alt="pacman contribution graph" src="https://raw.githubusercontent.com/MuriloMtheo/MuriloMtheo/output/pacman-contribution-graph.svg">
+</picture>
+
+###
